@@ -58,6 +58,14 @@ cd MamaCare-0.1
 # Create virtual environment
 python -m venv .venv
 .venv\Scripts\activate  # for Windows
+📁 Model File Note
+
+The trained machine learning model file mamacare_liver_model.pkl is not uploaded here due to GitHub's file size limit (25MB max).
+
+But don’t worry! You can easily regenerate it by running the training script:
+
+```bash
+python train_model.ipynb.py
 
 # Install requirements
 pip install -r requirements.txt
