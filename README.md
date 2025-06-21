@@ -52,7 +52,7 @@ Users can enter their details (e.g., fatigue, jaundice, hepatitis history, etc.)
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/MamaCare-0.1.git
+git clone https://github.com/Haroon-stormera/MamaCare-0.1.git
 cd MamaCare-0.1
 
 # Create virtual environment
